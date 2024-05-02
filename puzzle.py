@@ -1,3 +1,4 @@
+#Solution to the 8 puzzle problem
 class Puzzle8:
     def __init__(self, initial_state):
         self.initial_state = initial_state
